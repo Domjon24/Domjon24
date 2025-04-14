@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dominique</h1>
-<h3 align="center">A driven coder, passionate about solving re-world problems using code</h3>
+<h1 align="center">Hi 👋🏽, I'm Dominique</h1>
+<h3 align="center">A driven coder, passionate about solving real-world problems using code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domjon24&label=Profile%20views&color=0e75b6&style=flat" alt="domjon24" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 📫 How to reach me **Domjon24@gmail.com**
+- How to reach me 📫 **Domjon24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
