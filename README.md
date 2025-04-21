@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/domjon24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="domjon24" height="50" width="60" /></a>
-  <a href="https://www.freecodecamp.org/domjon24" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG-Lt0EFQCtS5XosSMZSwmE-0HhJGryOoH8A&s" alt="domjon24" height="50" width="60" /></a>
+  <a href="https://www.freecodecamp.org/domjon24" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG-Lt0EFQCtS5XosSMZSwmE-0HhJGryOoH8A&s" alt="domjon24" height="50" width="50"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
