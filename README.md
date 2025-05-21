@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domjon24&label=Profile%20views&color=0e75b6&style=flat" alt="domjon24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domjon24" alt="domjon24" /></a> </p>
+<!--   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domjon24" alt="domjon24" /></a> </p> -->
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -13,6 +13,11 @@
 <p align="left">
 <a href="https://codepen.io/domjon24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="domjon24" height="50" width="60" /></a>
   <a href="https://www.freecodecamp.org/domjon24" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG-Lt0EFQCtS5XosSMZSwmE-0HhJGryOoH8A&s" alt="domjon24" height="50" width="50"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=domjon24@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="domjon24" height="50" width="50"/></a>
+<a href="https://www.linkedin.com/in/dominique-j-077239b4/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="50" width="50"/></a>
+
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
