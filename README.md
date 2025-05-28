@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Node.js**
 
 - How to reach me 📫 **Domjon24@gmail.com**
+- You can find my portfolio site [here](https://dominiquej.carrd.co/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
