@@ -42,4 +42,10 @@ Visit my Income Tracker that parses data from PDF [here](https://github.com/Domj
 
 <img width="1740" height="684" alt="image" src="https://github.com/user-attachments/assets/a3187975-9293-4568-bf3a-fc0ee685f371" />
 
+This page is hosted using github pages. There is a table that you can enter you expenses into. You can either do it manually (using CRUD operations), or automaticlly upload a UPS paystup. The pdf input field automaticlly parses the data into text and updates the table and graph when you click submit
+
+<hr> 
+
+
+  View all my other repos [here](https://github.com/DOmjon24?tab=repositories)
 
