@@ -30,3 +30,16 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=domjon24&show_icons=true&locale=en&layout=compact" alt="domjon24" /></p>
+
+Visit my chat application that I build using google firebase & react [here](https://github.com/Domjon24/KiKiCo#project-overview)
+
+![image](https://github.com/user-attachments/assets/4f02292c-e6f0-48ce-be77-1e5ea9be14bf)
+<p></p><p></p>
+<hr>
+<p></p><p></p>
+
+Visit my Income Tracker that parses data from PDF [here](https://github.com/Domjon24/Income-Tracker) I also cloned the UPS Company website from scratch.
+
+<img width="1740" height="684" alt="image" src="https://github.com/user-attachments/assets/a3187975-9293-4568-bf3a-fc0ee685f371" />
+
+
