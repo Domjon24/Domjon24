@@ -5,7 +5,7 @@
 
 <!--   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domjon24" alt="domjon24" /></a> </p> -->
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently sharpening my skills in **Next.js**
 
 - How to reach me 📫 **Domjon24@gmail.com**
 - You can find my portfolio site [here](https://dominiquej.carrd.co/)
