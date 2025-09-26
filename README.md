@@ -45,6 +45,11 @@ Visit my Income Tracker that parses data from PDF [here](https://github.com/Domj
 This page is hosted using github pages. There is a table that you can enter you expenses into. You can either do it manually (using CRUD operations), or automaticlly upload a UPS paystup. The pdf input field automaticlly parses the data into text and updates the table and graph when you click submit
 
 <hr> 
+<p></p><p></p>
+
+![4 Lyric Results](https://github.com/user-attachments/assets/dcec6edb-bf15-42e8-bf91-183f7c1f89ff)
+Visit my Lyric Quiz Tool that fetches lyrics using an API and returns words of a specified length [here](https://domjon24.github.io/Missing-Lyric-Quiz-Helper/) Full description [here](https://github.com/Domjon24/Missing-Lyric-Quiz-Helper)
+
 
 
   View all my other repos [here](https://github.com/DOmjon24?tab=repositories)
