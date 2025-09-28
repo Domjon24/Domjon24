@@ -31,14 +31,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=domjon24&show_icons=true&locale=en&layout=compact" alt="domjon24" /></p>
 
-Visit my chat application that I build using google firebase & react [here](https://github.com/Domjon24/KiKiCo#project-overview)
+Visit my chat application [here](https://github.com/Domjon24/KiKiCo#project-overview) . I used react for the frontend, and google firebase for the cloud database management.
 
 ![image](https://github.com/user-attachments/assets/4f02292c-e6f0-48ce-be77-1e5ea9be14bf)
 <p></p><p></p>
 <hr>
 <p></p><p></p>
 
-Visit my Income Tracker that parses data from PDF [here](https://github.com/Domjon24/Income-Tracker) I also cloned the UPS Company website from scratch.
+Visit my Income Tracker that parses data from PDF [here](https://github.com/Domjon24/Income-Tracker) A clone of the UPS website that imports PDF's and tracks your finances. I used an api for parsing the PDF text, and automaticlly converts it into visual data.
 
 <img width="1740" height="684" alt="image" src="https://github.com/user-attachments/assets/a3187975-9293-4568-bf3a-fc0ee685f371" />
 
