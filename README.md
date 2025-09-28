@@ -8,7 +8,7 @@
 - 🌱 I’m currently sharpening my skills in **Next.js**
 
 - How to reach me 📫 **Domjon24@gmail.com**
-- You can find my portfolio site [here](https://DominiqueKjones.com/)
+- My portfolio can be found at [DominiqueKJones.com](https://DominiqueKjones.com/)
 - [Certified Web Developer](https://www.freecodecamp.org/certification/domjon24/responsive-web-design) since 2021
 <img width="550" height="350" alt="fcc cert" src="https://github.com/user-attachments/assets/4cc1acd7-97a4-4b52-9c69-6b9834c368c5" />
 
