@@ -1,5 +1,7 @@
+![](https://komarev.com/ghpvc/?username=Domjon24&style=plastic&color=ff69b4)
 <h1 align="center">Hi 👋🏽, I'm Dominique</h1>
 <h3 align="center">A driven developer, passionate about solving real-world problems using code</h3>
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -14,6 +16,7 @@
 - My portfolio can be found at [DominiqueKJones.com](https://DominiqueKjones.com/)
 - [Certified Web Developer](https://www.freecodecamp.org/certification/domjon24/responsive-web-design) since 2021
 <img align="center" width="550" height="350" alt="fcc cert" src="https://github.com/user-attachments/assets/4cc1acd7-97a4-4b52-9c69-6b9834c368c5" />
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -62,6 +65,7 @@
 <a href="https://codepen.com/https://codepen.io/domjon24" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
+
 </div>  
   
 
