@@ -1,38 +1,73 @@
 <h1 align="center">Hi 👋🏽, I'm Dominique</h1>
 <h3 align="center">A driven developer, passionate about solving real-world problems using code</h3>
 
-<!-- <p align="left">  -->
-  <img src="https://komarev.com/ghpvc/?username=domjon24&label=Profile%20views&color=0e75b6&style=flat" alt="domjon24" /> 
-  
-<!--   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domjon24" alt="domjon24" /></a> </p> -->
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzwnm5zou4ojsduwepq4x3cuu4&cover_image=true&theme=novatorem&show_offline=false&background_color=a07979&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
+
 
 - 🌱 I’m currently sharpening my skills in **Next.js**
 
 - How to reach me 📫 **Domjon24@gmail.com**
 - My portfolio can be found at [DominiqueKJones.com](https://DominiqueKjones.com/)
 - [Certified Web Developer](https://www.freecodecamp.org/certification/domjon24/responsive-web-design) since 2021
-<img width="550" height="350" alt="fcc cert" src="https://github.com/user-attachments/assets/4cc1acd7-97a4-4b52-9c69-6b9834c368c5" />
+<img align="center" width="550" height="350" alt="fcc cert" src="https://github.com/user-attachments/assets/4cc1acd7-97a4-4b52-9c69-6b9834c368c5" />
 
-<h3 align="left">Connect with me:</h3>
-<!-- <p align="left">  -->
-
-<a href="https://codepen.io/domjon24" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="domjon24" height="50" width="60" /></a><a href="https://www.freecodecamp.org/domjon24" target="blank"><img align="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG-Lt0EFQCtS5XosSMZSwmE-0HhJGryOoH8A&s" alt="domjon24" height="50" width="50"/></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=domjon24@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/3840px-Gmail_icon_%282020%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="domjon24" height="50" width="50"/></a><a href="https://www.linkedin.com/in/dominique-j-077239b4/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" height="50" width="50"/></a>
+## My Skill Set  
+<table><tr><td valign="top" width="50%">
 
 
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+</div>
 
-<!-- </p> -->
+</td><td valign="top" width="50%">
 
-<h3 align="left">Languages and Tools:</h3>
-<!-- <div style="display: flex;"> -->
-<!-- <p align="left">  -->
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/327388/logo-react.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/368858/nextjs.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://localwp.com/" target="_blank" rel="noreferrer"> <img src="https://localwp.com/wp-content/uploads/2021/01/local-lightning-icon.png" alt="Wordpress Local" width="40" height="40"/> </a>
-     <!-- </p></div> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=domjon24&show_icons=true&locale=en&layout=compact" alt="domjon24" /></p>
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="left">
+<a href="https://github.com/Domjon24" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dominique-j-077239b4/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/https://codepen.io/domjon24" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
 
 Visit my chat application [here](https://github.com/Domjon24/KiKiCo#project-overview) . I used react for the frontend, and google firebase for the cloud database management.
 
